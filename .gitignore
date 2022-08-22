@@ -1,0 +1,4 @@
+config.py
+*.db
+env/
+__pycache__/
